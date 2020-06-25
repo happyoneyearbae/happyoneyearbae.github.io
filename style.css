@@ -2,7 +2,7 @@ head,body
 {
     background-color:red;
     color:white;
-    font-family: sans-serif;
+    family:courier,arial,helvetica;
 }
 #left,#centre,#right
 {
